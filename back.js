@@ -50,7 +50,8 @@ let quotes = [
     "hayallerin",
     "seninle olan hayallerim",
     "bana olan aşkın",
-    "sana olan aşkım"
+    "sana olan aşkım",
+    "patlıcanın (benimkinden büyük)"
 ]
 
 let quoteNum = Math.floor(Math.random() * quotes.length)
